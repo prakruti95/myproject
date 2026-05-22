@@ -19,7 +19,7 @@ class _FormExState extends State<FormEx>
   {
     return Scaffold
       (
-        appBar: AppBar(title: Text("My Form1"),),
+        appBar: AppBar(title: Text("My Form2"),),
         body: Form(
           key: _formkey,
           child: Center
